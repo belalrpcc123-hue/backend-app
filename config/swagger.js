@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
       {
-        url: 'https://backend-app-ywds.onrender.com',
+        url: 'http://localhost:3000',
       },
     ],
     tags: [
